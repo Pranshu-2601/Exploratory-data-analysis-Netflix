@@ -33,7 +33,7 @@ Exploratory Data Analysis (EDA) on the [Netflix Titles dataset](https://www.kagg
 ## 🚀 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/netflix-eda.git
+   git clone https://github.com/Pranshu-2601/Exploratory-data-analysis-Netflix.git
    cd netflix-eda
    ```
 2. Install dependencies:
