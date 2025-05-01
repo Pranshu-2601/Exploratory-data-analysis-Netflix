@@ -51,7 +51,6 @@ Exploratory Data Analysis (EDA) on the [Netflix Titles dataset](https://www.kagg
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn, Plotly
-- WordCloud
 - Jupyter Notebook
 
 ---
