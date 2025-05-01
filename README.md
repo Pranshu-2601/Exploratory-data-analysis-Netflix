@@ -54,3 +54,15 @@ Exploratory Data Analysis (EDA) on the [Netflix Titles dataset](https://www.kagg
 - Jupyter Notebook
 
 ---
+## 📊 Power BI Dashboard
+This project also includes a Power BI dashboard for interactive visual exploration of Netflix content.
+
+- The `.pbix` file (`NetflixDB.pbix`) is included in this repository.
+- The dashboard provides:
+  - Filters for content type, year, and country
+  - Visuals for top genres, ratings, Shows by country, and release trends
+  - Summary cards for total shows, directors, categories and movie release year.
+    
+![NetflixDB-1](https://github.com/user-attachments/assets/d26334f2-35dc-4f9a-8182-3f9831b7ec7f)
+
+
